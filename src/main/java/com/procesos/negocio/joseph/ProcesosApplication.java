@@ -1,4 +1,4 @@
-package com.procesos.negocio.joseph;
+ package com.procesos.negocio.joseph;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
