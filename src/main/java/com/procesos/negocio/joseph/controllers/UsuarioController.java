@@ -51,6 +51,7 @@ public class UsuarioController {
             usuarioBD.setTelefono(usuario.getTelefono());
             usuarioRepository.save(usuarioBD);
             return usuarioBD;
+
         }catch (Exception e){
             return null;
         }
